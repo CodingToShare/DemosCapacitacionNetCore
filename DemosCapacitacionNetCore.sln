@@ -23,7 +23,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1Swashbuckel"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClasesSueltas", "ClasesSueltas", "{9CB8E9F3-261C-4023-9FAA-48D1D18E0E1B}"
 	ProjectSection(SolutionItems) = preProject
-		TextFile1.txt = TextFile1.txt
+		Demo.cs = Demo.cs
+		MMRStage0.xml = MMRStage0.xml
+		MMRStage1.json = MMRStage1.json
+		MMRStage2.json = MMRStage2.json
+		MMRStage3.json = MMRStage3.json
+		SOLID0.cs = SOLID0.cs
+		SOLID1.cs = SOLID1.cs
+		SOLID2.cs = SOLID2.cs
+		SOLID3.cs = SOLID3.cs
+		SOLID4.cs = SOLID4.cs
 	EndProjectSection
 EndProject
 Global
